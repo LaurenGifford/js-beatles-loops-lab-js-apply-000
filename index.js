@@ -28,7 +28,7 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(n){
-  var string = []
+  var string = [];
   do {num += 1} while(num < `15`)
   return strings
 }
