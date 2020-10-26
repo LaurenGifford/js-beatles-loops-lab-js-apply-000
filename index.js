@@ -22,7 +22,7 @@ function johnLennonFacts(facts){
     let newArray = [];
     while (i < factsArray.length) {
       newArray.push(`${i}` + `!!!`);
-    i++
+    i++;
     }
     return newArray
 }
