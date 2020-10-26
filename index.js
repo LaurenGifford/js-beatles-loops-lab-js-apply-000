@@ -18,7 +18,7 @@ const facts = [
     "He was a chois boy and boy scout",
     "He hated the sound of his own voice"];
 function johnLennonFacts(facts){
-    let i = facts[0]
+    let i = 0
     while (i< facts.length){var factsArray = [];
       console.log(`${i}` + `!!!`);
     i++
