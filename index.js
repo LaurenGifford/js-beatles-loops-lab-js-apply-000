@@ -5,7 +5,7 @@ const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo St
 const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
 function theBeatlesPlay(musicians, instruments){
   var musicianString;
-  var musicianInstrument = [], 
+  var musicianInstrument = []; 
   for ([i] = 1; )
   
   return push.playlist(`${i}` + `!`);
