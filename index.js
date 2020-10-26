@@ -18,15 +18,12 @@ const facts = [
     "He was a chois boy and boy scout",
     "He hated the sound of his own voice"];
 function johnLennonFacts(facts){
-  const facts = [
-    "He was the last Beatle to learn to drive",
-    "He was never a vegetarian",
-    "He was a chois boy and boy scout",
-    "He hated the sound of his own voice"];
     let i = facts[0]
-    while (i< facts[4]){console.log(`${i}` + `!!!`);
-    i += 1}
-    return facts
+    while (i< facts.length){var factsArray = [];
+      console.log(`${i}` + `!!!`);
+    i++
+    }
+    return factsArray
 }
 
 function iLoveTheBeatles(num){
