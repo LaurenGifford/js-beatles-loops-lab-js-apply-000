@@ -30,6 +30,8 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(n){
   var string = [];
   do {n++;
-  } while(num < `15`)
+  strings.push(`I love the Beatles!`);
+  } 
+  while(n < `15`)
   return strings
 }
