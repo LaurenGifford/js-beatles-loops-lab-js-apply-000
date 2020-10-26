@@ -27,7 +27,7 @@ function johnLennonFacts(facts){
     return newArray
 }
 
-function iLoveTheBeatles(num){
+function iLoveTheBeatles(n){
   do {num += 1} while(num < `15`)
   return strings
 }
